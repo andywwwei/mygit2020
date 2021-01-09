@@ -1,6 +1,7 @@
-public class voidmain(){
+blic class voidmain(){
 	public void test(){
 		system.out();
 	}
 }
 one 123
+two 456
