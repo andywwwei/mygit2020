@@ -5,3 +5,4 @@ blic class voidmain(){
 }
 one 123
 two 456
+two 测试不重复输入密码
