@@ -3,3 +3,4 @@ public class voidmain(){
 		system.out();
 	}
 }
+one 123
